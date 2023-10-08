@@ -1,7 +1,7 @@
 # Xternship-5.0
 Xternship 5.0
 
-Interns Management System
+**Interns Management System**
 
 User Authentication and Roles:
 5 User Roles - Admin, Evaluators, Mentors, Interns and Management
